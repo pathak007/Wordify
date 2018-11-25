@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A69A</color>
+    <color name="colorPrimaryDark">#26A69A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="calenderBg">#26A69A</color>
+    <color name="calenderDateSelect">#360432</color>
+    <color name="calenderText">#faf9fa</color>
+    <color name="nav_header">#ffffff</color>
+    <color name="calenderTextSelected">#000000</color>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wordify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wordify</string>
+    <string name="nav_header_subtitle">Build your own Diction</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="word">Word</string>
+    <string name="example">Example</string>
+    <string name="antonym">Antonym</string>
+    <string name="synonym">Synonym</string>
+    <string name="meaning">Meaning</string>
+    <string name="word1">WORD</string>
+    <string name="antonym1">ANTONYM :</string>
+    <string name="synonyms1">SYNONYMS :</string>
+    <string name="example1">EXAMPLE :</string>
+    <string name="meaning1">MEANING :</string>
+    <string name="word2">WORD :</string>
+    <string name="antonyms1">ANTONYMS</string>
+    <string name="antonyms2">ANTONYMS :</string>
+</resources>
